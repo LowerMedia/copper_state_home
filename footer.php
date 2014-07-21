@@ -13,8 +13,8 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="site-info">
 			<center>
-			Phoenix Home Inspections | Copper State Home Inspections<br/>
-			16619 N 4th Ave<br/>
+			<!-- Phoenix Home Inspections | Copper State Home Inspections<br/>
+			16619 N 4th Ave<br/> -->
 			Phoenix, AZ 85027<br/>
 			602-296-4748<br/>
 		</center>
