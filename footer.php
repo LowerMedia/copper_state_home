@@ -20,7 +20,7 @@
 		</center>
 		</div><!-- .site-info -->
 		<div class="dev-info">
-			<a href="lowermedia.net">A LowerMedia Site</a>
+			<a href="http://lowermedia.net">A LowerMedia Site</a>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
